@@ -8,7 +8,8 @@ from tushare.stock.trading import (get_hist_data, get_tick_data,
                                    get_h_data, get_today_ticks,
                                    get_index, get_hists,
                                    get_k_data,
-                                   get_sina_dd)
+                                   get_sina_dd,
+                                   get_realtime_quotes_bysymbols)
 
 """
 for trading data
